@@ -9,9 +9,7 @@ performance, gameplay improvements and developer-friendly tools.
 
 ## Projects
 
-- CrystalCore
-- Crystal Utilities
-- Crystal API
+- The Something Mod
 
 ## Team
 
