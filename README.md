@@ -1,10 +1,10 @@
 # CrystalKiiZE
 
-Creating Minecraft mods, tools and open-source projects.
+Creating Minecraft mods and tools.
 
 ## About
 
-CrystalKiiZE, An Organization with nothing to do.
+CrystalKiiZE is an independent Minecraft modding organization.
 
 ## Projects
 
@@ -24,9 +24,10 @@ Co-Founder & Developer
 
 ## Links
 
-- (Modrinth)[https://modrinth.com/organization/crystalkiize]
-- (GitHub)[https://github.com/CrystalKiiZE]
+- [![Modrinth](https://img.shields.io/badge/Modrinth-CrystalKiiZE-00AF5C)](https://modrinth.com/organization/crystalkiize)
+
+- [![GitHub](https://img.shields.io/badge/GitHub-CrystalKiiZE-black)](https://github.com/CrystalKiiZE)
 
 ## License
 
-AP-CrystalKiiZE Proprietary License v1.0
+[AP-CrystalKiiZE Proprietary License v1.0](https://github.com/CrystalKiiZE/main-area/blob/main/LICENSE)
