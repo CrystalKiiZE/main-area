@@ -1,2 +1,34 @@
-# main-area
-This is the main area for our License, Info, or Who We Are
+# CrystalKiiZE
+
+Creating Minecraft mods, tools and open-source projects.
+
+## About
+
+CrystalKiiZE is an independent Minecraft modding organization focused on
+performance, gameplay improvements and developer-friendly tools.
+
+## Projects
+
+- CrystalCore
+- Crystal Utilities
+- Crystal API
+
+## Team
+
+### PSK
+Lead Developer
+
+### AbsolxteAnsh
+Co-Founder & Developer
+
+## Supported Platforms
+
+- Fabric
+
+## Links
+
+- Modrinth[https://modrinth.com/organization/crystalkiize]
+- GitHub[https://github.com/CrystalKiiZE]
+
+## License
+
