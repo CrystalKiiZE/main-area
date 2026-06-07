@@ -30,4 +30,4 @@ Co-Founder & Developer
 
 ## License
 
-AP-CrystalKiiZE License
+AP-CrystalKiiZE Proprietary License v1.0
