@@ -4,8 +4,7 @@ Creating Minecraft mods, tools and open-source projects.
 
 ## About
 
-CrystalKiiZE is an independent Minecraft modding organization focused on
-performance, gameplay improvements and developer-friendly tools.
+CrystalKiiZE, An Organization with nothing to do.
 
 ## Projects
 
