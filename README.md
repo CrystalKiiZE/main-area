@@ -27,8 +27,9 @@ Co-Founder & Developer
 
 ## Links
 
-- Modrinth[https://modrinth.com/organization/crystalkiize]
-- GitHub[https://github.com/CrystalKiiZE]
+- (Modrinth)[https://modrinth.com/organization/crystalkiize]
+- (GitHub)[https://github.com/CrystalKiiZE]
 
 ## License
 
+AP-CrystalKiiZE License
